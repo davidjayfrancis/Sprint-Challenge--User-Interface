@@ -145,6 +145,40 @@ p {
     padding-right: 0;
 }
 
+/* Style the boxes */
+#teal-box {
+    background: teal;
+}
+#gold-box {
+    background: gold;
+}
+#cadetblue-box {
+    background: cadetblue;
+}
+#coral-box {
+    background: coral;
+}
+#crimson-box {
+    background: crimson;
+}
+#forestgreen-box {
+    background: forestgreen;
+}
+#darkorchid-box {
+    background: darkorchid;
+}
+#hotpink-box {
+    background: hotpink;
+}
+#indigo-box {
+    background: indigo;
+}
+#dodgerblue-box {
+    background: dodgerblue;
+}
+
+
+
 footer {
     width: 100%;
     background: black;
@@ -163,3 +197,4 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* end of about page */
