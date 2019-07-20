@@ -247,3 +247,17 @@ footer nav a {
     color: white; 
     background: black;
 }
+
+.product-image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.box-content img {
+    width: 100%
+}
+
+.products {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
